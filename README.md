@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Strikerzzzz
+- 👋 Hi, I’m Tiến
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning information technology
 - 💞️ I’m looking to collaborate on ...
