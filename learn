@@ -1,0 +1,258 @@
+#include<iostream.h>
+#include<string.h>
+#include<iomanip.h>
+#include<fstream>
+using namespace std;
+struct canbo{
+	char macb[20];
+	char tencb[30];
+	float hsl; 
+	char chucvu[20];
+	float phucap;
+	float luong;
+};
+void nhapcanbo(canbo cb[],int n){
+	cin.ignore();
+	for (int i=0;i<n;i++){
+		cout<<"Nhap thong tin cua can bo thu "<<i+1<<":\n";
+		cout<<"\t\tNhap ma can bo: ";
+		cin.getline(cb[i].macb,20);
+		cout<<"\t\tNhap ten can bo: ";
+		cin.getline(cb[i].tencb, 30);
+		cout<<"\t\tNhap he so luong: ";
+		cin>>cb[i].hsl;
+		while(cb[i].hsl<0){
+			cout<<"He so luong khong hop le, nhap lai he so luong: ";
+			cin>>cb[i].hsl;
+		}
+		cin.ignore();
+		cout<<"\t\tNhap chuc vu: ";
+		cin.getline(cb[i].chucvu, 20);
+	}
+}
+void tinhluong(canbo cb[],int n){
+	for (int i=0;i<n;i++){
+		if(stricmp(cb[i].chucvu,"giam doc")==0){
+			cb[i].phucap=10000000;
+		}else if(stricmp(cb[i].chucvu,"truong phong")==0){
+			cb[i].phucap=5000000;
+		}else{
+			cb[i].phucap=2000000;
+		}
+		cb[i].luong=cb[i].hsl*1500000.+cb[i].phucap;
+		cb[i].phucap/=100000;
+		cb[i].luong/=100000;
+	}
+}
+void indanhsach(canbo cb[],int n){
+	cout<<"+========================================================================================================================+\n"
+		<<"|"
+		<< setw(20) << "Ma can bo"<< "|"
+		<< setw(30) << "Ten can bo"<< "|"
+		<< setw(15) << "He so luong"<< "|"
+		<< setw(20) << "Chuc vu "<< "|"
+		<< setw(15) << "Phu cap"<< "|"
+		<< setw(15) << "Luong" << "|"<< endl
+		<< "+========================================================================================================================+\n";
+	for (int i=0;i<n;i++){
+		cout<<"|"
+		<< setw(20) << cb[i].macb<< "|"
+		<< setw(30) << cb[i].tencb<< "|"
+		<< setw(15) << cb[i].hsl<< "|"
+		<< setw(20) << cb[i].chucvu<< "|"
+		<< setw(10) << cb[i].phucap<< setw(5)<<"00000"<< "|"
+		<< setw(10) << cb[i].luong<< setw(5)<<"00000"<<"|"<< endl;
+	}
+}
+float tinhtongluong(canbo cb[],int n){
+	float tong=0;
+	for (int i=0;i<n;i++){
+		tong+=cb[i].luong;
+	}
+	return tong;
+}
+float tinhtltheocv(char cv[],canbo cb[],int n){
+	float tong=0;
+	for(int i=0;i<n;i++){
+		if(stricmp(cb[i].chucvu,cv)==0){
+			tong+=cb[i].luong;	
+		}	
+	}
+	return tong;
+}
+void sapxep(canbo cb[], int n){
+	for (int i=0;i<n-1;i++){
+		for (int j=i+1;j<n;j++){
+			if (cb[i].luong > cb[j].luong){
+				canbo tg = cb[i];
+				cb[i] = cb[j];
+				cb[j] = tg;
+			}
+		}
+	}
+	cout<<"\n________________________________Danh sach can bo sau khi sap xem theo chieu tang dan cua luong__________________________\n";
+	indanhsach(cb,n);	
+}
+void them(canbo cb[],int n){
+	cin.ignore();
+	cout<<"Nhap thong tin cua can bo thu "<<n<<":\n";
+		cout<<"\t\tNhap ma can bo: ";
+		cin.getline(cb[n-1].macb,20);
+		cout<<"\t\tNhap ten can bo: ";
+		cin.getline(cb[n-1].tencb, 30);
+		cout<<"\t\tNhap he so luong: ";
+		cin>>cb[n-1].hsl;
+		while(cb[n-1].hsl<0){
+			cout<<"He so luong khong hop le, nhap lai he so luong: ";
+			cin>>cb[n-1].hsl;
+		}
+		cin.ignore();
+		cout<<"\t\tNhap chuc vu: ";
+		cin.getline(cb[n-1].chucvu, 20);
+		tinhluong(cb,n);
+	int pos = n-1;
+	while ((pos>0)&&(cb[pos-1].luong>cb[pos].luong)){ 
+		canbo tg = cb[pos];
+				cb[pos] = cb[pos-1]; 
+				cb[pos-1] = tg;
+		pos--;
+	}
+}
+void xoacb(canbo cb[],int n){
+	cout<<"Nhap ma can bo can xoa: ";
+	char x[20];
+	cin.ignore();
+	cin.getline(x,20);
+	int j;
+	for(int i=0;i<n;i++){
+		if(stricmp(cb[i].macb,x)==0)
+			j=i;
+	}
+	while (j<n){
+		cb[j]=cb[j+1];
+		j++;
+	}
+	cout<<"Da xoa can bo co ma "<<x<<endl;
+}
+void luutep(canbo cb[],int n){
+	ofstream file ("canbo.dat");
+	if(!file){ 
+		cout<<"Khong the tao duoc tep tin "<<file<<endl;
+		return;
+	}
+	file<<n<<endl; 
+	for (int i=0;i<n;i++){
+		file<<cb[i].macb<<endl
+			<<cb[i].tencb<<endl
+			<<cb[i].hsl<<endl
+			<<cb[i].chucvu<<endl
+			<<cb[i].phucap<<endl
+			<<cb[i].luong<<endl;
+	}
+	file.close();
+}
+void doctep(canbo cb[],int &n){
+	ifstream file1;
+	file1.open("canbo.dat");
+	if(!file1){ 
+		cout<<"Khong the tao duoc tep tin "<<file1<<endl;
+		return;
+	}
+	file1>>n;
+	for (int i=0;i<n;i++){
+		file1.ignore();
+		file1.getline(cb[i].macb,20);
+		file1.getline(cb[i].tencb, 30);
+		file1>>cb[i].hsl;
+		file1.ignore();
+		file1.getline(cb[i].chucvu, 20);
+		file1>>cb[i].phucap;
+		file1>>cb[i].luong;
+	}
+	file1.close();
+	indanhsach(cb,n);
+}
+int main(){
+	cout<<"Nhap so luong can bo: ";
+	int n;
+	cin>>n;
+	while(n<=0){
+		cout<<"So luong can bo khong hop le, moi ban nhap lai: ";
+		cin>>n;
+	}
+	canbo cb[n+1];
+	int luachon;
+	tt:
+	cout<<"============================MENU============================\n"
+		<<"1.Nhap danh sach can bo"<<endl
+		<<"2.Tinh luong cua tung can bo"<<endl
+		<<"3.In danh sach can bo ra man hinh"<<endl
+		<<"4.Tong luong cua cac can bo phong 'Hanh chinh'"<<endl
+		<<"5.Sap xep danh sach can bo theo chieu tang dan cua luong"<<endl
+		<<"6.Them mot can bo vao danh sach "<<endl
+		<<"7.Xoa khoi danh sach can bo co ma MCB "<<endl
+		<<"8.Luu danh sach can bo vao tep canbo.dat"<<endl
+		<<"9.Doc danh sach can bo tu tep canbo.dat"<<endl
+		<<"0.Thoat khoi chuong trinh "<<endl
+		<<"\n\n"; 
+	cout<<"Moi ban nhap lua chon: ";
+	nl:
+	cin>>luachon;
+	switch(luachon){
+		case 1:
+			cout<<"================NHAP DANH SACH CAN BO================\n";
+			nhapcanbo(cb,n);
+			break;
+		case 2:
+			tinhluong(cb,n);
+			cout<<"Da tinh xong"<<endl;
+			break;
+		case 3:
+			indanhsach(cb,n);
+			break;
+		case 4:
+			cout<<"Tong luong cua cac can bo phong 'Hanh chinh'="<<tinhtongluong(cb,n)<<"00000\n";
+			cout<<"Ban co muon tinh tong luong theo chuc vu khong(1.co;2.khong): ";
+			int lc;
+			cin>>lc;
+			if(lc==1){
+				char cv[20];
+				cout<<"Nhap chuc vu can tinh tong luong: ";
+				cin.ignore();
+				cin.getline(cv,20);
+				cout<<"Tong luong cua cac can bo co chuc vu "<<cv<<" ="<<tinhtltheocv(cv,cb,n)<<"00000\n";
+			}
+			break;
+		case 5:
+			sapxep(cb,n);
+			break;
+		case 6:
+			n+=1;
+			them(cb,n);
+			cout<<"\nDanh sach can bo sau khi them: \n";
+			indanhsach(cb,n);
+			break;
+		case 7:
+			xoacb(cb,n);
+			n-=1;
+			indanhsach(cb,n);
+			break;
+		case 8:
+			luutep(cb,n);
+			cout<<"Da luu tep"<<endl;
+			break;
+		case 9:
+			doctep(cb,n);
+			break;
+		case 0:
+		 	cout<<"Da thoat khoi chuong trinh"<<endl;
+			exit(0);	
+		default:
+			cout<<"Lua chon khong hop le, moi ban nhap lai: ";
+			goto nl;
+	}
+	cout<<"Chuong trinh tiep tuc:"<<endl;
+	system("pause");
+	system("cls");
+	goto tt;
+}
