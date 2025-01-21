@@ -8,14 +8,14 @@ I'm Nguyễn Tiến, a professional **self taught** Full Stack developer from Vi
 
 ### Languages
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)](https://www.typescriptlang.org/)
-[![C++](https://img.shields.io/badge/C++-000?&logo=cplusplus&logoColor=0057b8)](https://cplusplus.com/)
-[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://dev.mysql.com/doc/)
-[![SQL Server](https://img.shields.io/badge/-SQL_Server-000?&logo=microsoftsqlserver)](https://learn.microsoft.com/en-us/sql/sql-server/)
-[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396)](https://www.php.net/)
-[![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=007396)](https://docs.oracle.com/en/java/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://cplusplus.com/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/en-us/sql/sql-server/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
 
 
 ### Technologies
