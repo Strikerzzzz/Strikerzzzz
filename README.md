@@ -55,5 +55,6 @@ I'm Nguyễn Tiến, a professional **self-taught** Full Stack developer from Vi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Strikerzzzz&bg_color=1E1E2E&color=BB86FC&line=BB86FC&point=7A7ADB&hide_border=true&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Strikerzzzz&bg_color=1E1E2E&color=BB86FC&line=BB86FC&point=7A7ADB&hide_border=true&theme=react-dark" alt="Activity Graph" />
 </p>
+
