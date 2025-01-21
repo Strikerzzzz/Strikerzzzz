@@ -38,12 +38,14 @@ I'm Nguyễn Tiến, a professional **self-taught** Full Stack developer from Vi
 [![](https://img.shields.io/badge/-Docker-000?&logo=Docker)](https://www.docker.com/)
 [![](https://img.shields.io/badge/Azure-000?&logo=microsoft-azure&logoColor=008AD7)](https://azure.microsoft.com/)
 
-<a href="https://github.com/Strikerzzzz/Strikerzzzz">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Strikerzzzz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=FFFFFF&icon_color=BB86FC&bg_color=0,1E1E2E,3A3A5E,4C4C7A&theme=radical" />
-</a>
-<a href="https://github.com/Strikerzzzz/Strikerzzzz">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strikerzzzz&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=FFFFFF&icon_color=BB86FC&bg_color=0,4C4C7A,3A3A5E,1E1E2E&theme=radical" />
-</a>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://github.com/Strikerzzzz/Strikerzzzz">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Strikerzzzz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=FFFFFF&icon_color=BB86FC&bg_color=0,1E1E2E,3A3A5E,4C4C7A&theme=radical" />
+  </a>
+  <a href="https://github.com/Strikerzzzz/Strikerzzzz">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strikerzzzz&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=FFFFFF&icon_color=BB86FC&bg_color=0,4C4C7A,3A3A5E,1E1E2E&theme=radical" />
+  </a>
+</div>
 
 <p align="center"> 
   <b>Visitor Count</b><br>
@@ -53,6 +55,5 @@ I'm Nguyễn Tiến, a professional **self-taught** Full Stack developer from Vi
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Strikerzzzz&theme=react-dark&bg_color=1E1E2E&color=BB86FC&line=BB86FC&point=7A7ADB&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Strikerzzzz&bg_color=1E1E2E&color=BB86FC&line=BB86FC&point=7A7ADB&hide_border=true&theme=react-dark" alt="Activity Graph" />
 </p>
-
