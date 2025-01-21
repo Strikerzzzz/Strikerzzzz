@@ -3,9 +3,8 @@
 I'm Nguyễn Tiến, a professional **self taught** Full Stack developer from Vietnamese.
 
 [![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.gg/f6SrSaREBr)
-[![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/@Iamhew03)
-[![](https://img.shields.io/badge/-Hashnode-FFF?&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@Iamhew03)
-[![](https://img.shields.io/badge/-Reddit-FFF?&logo=reddit)](https://www.reddit.com/user/Iamhew03)
+[![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/tiens8z)
+[![](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nguyentuantien413/)
 
 ### Languages
 
