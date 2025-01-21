@@ -8,14 +8,15 @@ I'm Nguyễn Tiến, a professional **self taught** Full Stack developer from Vi
 
 ### Languages
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)  
-[![C++](https://img.shields.io/badge/-C++-000?style=flat-square&logo=c%2B%2B&logoColor=00599C)](https://cplusplus.com/)  
-[![SQL](https://img.shields.io/badge/-SQL-000?style=flat-square&logo=mysql&logoColor=4479A1)](https://dev.mysql.com/doc/)  
-[![SQL Server](https://img.shields.io/badge/-SQL_Server-000?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)](https://learn.microsoft.com/en-us/sql/sql-server/)  
-[![PHP](https://img.shields.io/badge/-PHP-000?style=flat-square&logo=php&logoColor=777BB4)](https://www.php.net/)  
-[![C#](https://img.shields.io/badge/-C%23-000?style=flat-square&logo=csharp&logoColor=239120)](https://learn.microsoft.com/en-us/dotnet/csharp/)  
-[![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=java&logoColor=007396)](https://docs.oracle.com/en/java/)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)  
+[![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus&logoColor=00599C)](https://cplusplus.com/)  
+[![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=mysql&logoColor=4479A1)](https://dev.mysql.com/doc/)  
+[![SQL Server](https://img.shields.io/badge/SQL_Server-000?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)](https://learn.microsoft.com/en-us/sql/sql-server/)  
+[![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=777BB4)](https://www.php.net/)  
+[![C#](https://img.shields.io/badge/C%23-000?style=flat-square&logo=csharp&logoColor=239120)](https://learn.microsoft.com/en-us/dotnet/csharp/)  
+[![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=java&logoColor=007396)](https://docs.oracle.com/en/java/)  
+
 
 
 
