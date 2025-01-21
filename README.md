@@ -21,41 +21,38 @@ I'm Nguyễn Tiến, a professional **self-taught** Full Stack developer from Vi
 [![](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)](https://jquery.com/)
 [![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-Express-000?&logo=express)](https://expressjs.com/)
-[![](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)](https://vuejs.org/)
-[![](https://img.shields.io/badge/-React-000?&logo=React)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=DD0031)](https://angular.io/)
 [![](https://img.shields.io/badge/-SQLite-000?&logo=Sqlite)](https://sqlite.org/)
 [![](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)](https://sequelize.org/)
 [![](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js)](https://nuxt.com/)
 [![](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)](https://nextjs.org/)
 [![](https://img.shields.io/badge/-Flask-000?&logo=Flask)](https://flask.palletsprojects.com/)
-[![](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=092E20)](https://www.djangoproject.com/)
 
 ### Other
 
 [![](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)](https://getbootstrap.com/)
-[![](https://img.shields.io/badge/-Tailwind-000?&logo=tailwind-css)](https://tailwindcss.com/)
 [![](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=CC6699)](https://sass-lang.com/)
 [![](https://img.shields.io/badge/-Git-000?&logo=Git)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Docker-000?&logo=Docker)](https://www.docker.com/)
-[![](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=430098)](https://www.heroku.com/)
-[![](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)](https://www.netlify.com/)
-[![](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)](https://vercel.com/)
-[![](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)](https://aws.amazon.com/)
 [![](https://img.shields.io/badge/Azure-000?&logo=microsoft-azure&logoColor=008AD7)](https://azure.microsoft.com/)
 
 <a href="https://github.com/Strikerzzzz/Strikerzzzz">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Strikerzzzz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Strikerzzzz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=FFFFFF&icon_color=BB86FC&bg_color=0,1E1E2E,3A3A5E,4C4C7A&theme=radical" />
 </a>
 <a href="https://github.com/Strikerzzzz/Strikerzzzz">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strikerzzzz&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strikerzzzz&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=FFFFFF&icon_color=BB86FC&bg_color=0,4C4C7A,3A3A5E,1E1E2E&theme=radical" />
 </a>
 
 <p align="center"> 
-  Visitor count<br>
+  <b>Visitor Count</b><br>
   <a href="https://github.com/Strikerzzzz/Strikerzzzz">
-    <img src="https://profile-counter.glitch.me/Strikerzzzz/count.svg" />
+    <img src="https://profile-counter.glitch.me/Strikerzzzz/count.svg" style="color: #BB86FC;" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Strikerzzzz&theme=react-dark&bg_color=1E1E2E&color=BB86FC&line=BB86FC&point=7A7ADB&hide_border=true" alt="Activity Graph" />
+</p>
+
