@@ -7,16 +7,14 @@ I'm Nguyễn Tiến, a professional **self taught** Full Stack developer from Vi
 [![](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nguyentuantien413/)
 
 ### Languages
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)  
-[![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus&logoColor=00599C)](https://cplusplus.com/)  
-[![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=mysql&logoColor=4479A1)](https://dev.mysql.com/doc/)  
-[![SQL Server](https://img.shields.io/badge/SQL_Server-000?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)](https://learn.microsoft.com/en-us/sql/sql-server/)  
-[![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=777BB4)](https://www.php.net/)  
-[![C#](https://img.shields.io/badge/C%23-000?style=flat-square&logo=csharp&logoColor=239120)](https://learn.microsoft.com/en-us/dotnet/csharp/)  
-[![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=java&logoColor=007396)](https://docs.oracle.com/en/java/)  
-
+[![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)](https://www.typescriptlang.org/)  
+[![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)](https://cplusplus.com/)  
+[![SQL](https://upload.wikimedia.org/wikipedia/commons/6/68/MySQL.svg)](https://dev.mysql.com/doc/)  
+[![SQL Server](https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png)](https://learn.microsoft.com/en-us/sql/sql-server/)  
+[![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)](https://www.php.net/)  
+[![C#](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png)](https://learn.microsoft.com/en-us/dotnet/csharp/)  
+[![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)](https://docs.oracle.com/en/java/)  
 
 
 
