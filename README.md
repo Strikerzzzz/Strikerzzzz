@@ -8,14 +8,14 @@ I'm Nguyễn Tiến, a professional **self taught** Full Stack developer from Vi
 
 ### Languages
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)](https://www.typescriptlang.org/)  
-[![C++](https://img.shields.io/badge/C++-000?&logo=cplusplus&logoColor=0057b8)](https://cplusplus.com/)  
-[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://dev.mysql.com/doc/)  
-[![SQL Server](https://img.shields.io/badge/-SQL_Server-000?&logo=microsoftsqlserver)](https://learn.microsoft.com/en-us/sql/sql-server/)  
-[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396)](https://www.php.net/)  
-[![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)  
-[![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=007396)](https://docs.oracle.com/en/java/)  
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)](https://www.typescriptlang.org/)
+[![C++](https://img.shields.io/badge/C++-000?&logo=cplusplus&logoColor=0057b8)](https://cplusplus.com/)
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](https://dev.mysql.com/doc/)
+[![SQL Server](https://img.shields.io/badge/-SQL_Server-000?&logo=microsoftsqlserver)](https://learn.microsoft.com/en-us/sql/sql-server/)
+[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396)](https://www.php.net/)
+[![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=007396)](https://docs.oracle.com/en/java/)
 
 
 ### Technologies
