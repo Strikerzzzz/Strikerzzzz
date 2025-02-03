@@ -11,7 +11,6 @@ I'm Tiến, a professional **self-taught** Full Stack developer from Vietnam.
 [![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
 [![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus&logoColor=00599C)](https://cplusplus.com/)
 [![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=mysql&logoColor=4479A1)](https://dev.mysql.com/doc/)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-000?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)](https://learn.microsoft.com/en-us/sql/sql-server/)
 [![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=777BB4)](https://www.php.net/)
 [![C#](https://img.shields.io/badge/C%23-000?style=flat-square&logo=csharp&logoColor=239120)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=java&logoColor=007396)](https://docs.oracle.com/en/java/)
@@ -24,6 +23,8 @@ I'm Tiến, a professional **self-taught** Full Stack developer from Vietnam.
 [![](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=DD0031)](https://angular.io/)
 [![](https://img.shields.io/badge/-SQLite-000?&logo=Sqlite)](https://sqlite.org/)
 [![](https://img.shields.io/badge/-ASP.NET%20Core-000?&logo=dotnet)](https://dotnet.microsoft.com/)
+[![](https://img.shields.io/badge/-SQL%20Server-000?&logo=microsoft%20sql%20server)](https://www.microsoft.com/en-us/sql-server/)
+[![](https://img.shields.io/badge/-MySQL-000?&logo=mysql)](https://www.mysql.com/)
 
 ### Other
 
