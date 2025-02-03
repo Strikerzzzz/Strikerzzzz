@@ -18,15 +18,12 @@ I'm Tiến, a professional **self-taught** Full Stack developer from Vietnam.
 
 ### Technologies
 
-[![](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)](https://jquery.com/)
-[![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://nodejs.org/)
-[![](https://img.shields.io/badge/-Express-000?&logo=express)](https://expressjs.com/)
-[![](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=DD0031)](https://angular.io/)
-[![](https://img.shields.io/badge/-SQLite-000?&logo=Sqlite)](https://sqlite.org/)
-[![](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)](https://sequelize.org/)
-[![](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js)](https://nuxt.com/)
-[![](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)](https://nextjs.org/)
-[![](https://img.shields.io/badge/-Flask-000?&logo=Flask)](https://flask.palletsprojects.com/)
+[![](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)](https://jquery.com/)  
+[![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://nodejs.org/)  
+[![](https://img.shields.io/badge/-Express-000?&logo=express)](https://expressjs.com/)  
+[![](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=DD0031)](https://angular.io/)  
+[![](https://img.shields.io/badge/-SQLite-000?&logo=Sqlite)](https://sqlite.org/)  
+[![](https://img.shields.io/badge/-ASP.NET%20Core-000?&logo=dotnet)](https://dotnet.microsoft.com/)
 
 ### Other
 
