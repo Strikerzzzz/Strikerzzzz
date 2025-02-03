@@ -36,7 +36,6 @@ I'm Nguyễn Tiến, a professional **self-taught** Full Stack developer from Vi
 [![](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=CC6699)](https://sass-lang.com/)
 [![](https://img.shields.io/badge/-Git-000?&logo=Git)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Docker-000?&logo=Docker)](https://www.docker.com/)
-[![](https://img.shields.io/badge/Azure-000?&logo=microsoft-azure&logoColor=008AD7)](https://azure.microsoft.com/)
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/Strikerzzzz/Strikerzzzz">
