@@ -1,6 +1,6 @@
 ### Hi there, I'm Nguyễn Tuấn Tiến 👋
 
-I'm Tiến, a professional **self-taught** Full Stack developer from Vietnam.
+I'm Tiến, a Full Stack Developer from Vietnam, passionate about continuous learning and growth.”
 
 [![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.gg/f6SrSaREBr)
 [![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/tiens8z)
