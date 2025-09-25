@@ -44,8 +44,8 @@ I'm Tiến, a Full Stack Developer from Vietnam, passionate about continuous lea
 
 <p align="center"> 
   <b>Visitor Count</b><br>
-  <a href="https://github.com/Strikerzzzz/Strikerzzzz">
-    <img src="https://profile-counter.glitch.me/Strikerzzzz/count.svg" style="color: #BB86FC;" />
+  <a href="https://github.com/Strikerzzzz">
+    <img src="https://profile-counter.glitch.me/Strikerzzzz/count.svg" />
   </a>
 </p>
 
