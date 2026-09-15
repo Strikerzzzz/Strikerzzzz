@@ -1,54 +1,134 @@
-### Hi there, I'm Nguyễn Tuấn Tiến 👋
+# Hi, I'm Nguyễn Tuấn Tiến 👋
 
-I'm Tiến, a Full Stack Developer from Vietnam, passionate about continuous learning and growth.”
+### Full-Stack .NET & Vue Developer | APIs, Microservices & Integrations
 
-[![](https://img.shields.io/badge/-Discord-FFF?&logo=Discord)](https://discord.gg/f6SrSaREBr)
-[![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/tiens8z)
-[![](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nguyentuantien413/)
+I'm a software developer based in Vietnam, focused on building **backend services, business web applications, APIs, and system integrations**.
 
-### Languages
-[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
-[![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus&logoColor=00599C)](https://cplusplus.com/)
-[![SQL](https://img.shields.io/badge/SQL-000?style=flat-square&logo=mysql&logoColor=4479A1)](https://dev.mysql.com/doc/)
-[![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=777BB4)](https://www.php.net/)
-[![C#](https://img.shields.io/badge/C%23-000?style=flat-square&logo=csharp&logoColor=239120)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=java&logoColor=007396)](https://docs.oracle.com/en/java/)
+My primary stack is **C# / .NET / ASP.NET Core** for backend development and **Vue.js / TypeScript** for frontend applications.
 
-### Technologies
+I enjoy working on real-world business systems where clean architecture, reliable APIs, distributed services, and maintainable code matter.
 
-[![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://nodejs.org/)
-[![](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=DD0031)](https://angular.io/)
-[![](https://img.shields.io/badge/-SQLite-000?&logo=Sqlite)](https://sqlite.org/)
-[![](https://img.shields.io/badge/-ASP.NET%20Core-000?&logo=dotnet)](https://dotnet.microsoft.com/)
-[![](https://img.shields.io/badge/-SQL%20Server-000?&logo=microsoft%20sql%20server)](https://www.microsoft.com/en-us/sql-server/)
-[![](https://img.shields.io/badge/-MySQL-000?&logo=mysql)](https://www.mysql.com/)
+---
 
-### Other
+## 🚀 What I Do
 
-[![](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)](https://getbootstrap.com/)
-[![](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=CC6699)](https://sass-lang.com/)
-[![](https://img.shields.io/badge/-Git-000?&logo=Git)](https://git-scm.com/)
-[![](https://img.shields.io/badge/-Docker-000?&logo=Docker)](https://www.docker.com/)
+- Build backend APIs and business applications with **ASP.NET Core**
+- Develop modern web interfaces with **Vue 3 + TypeScript**
+- Design and integrate **REST APIs and gRPC services**
+- Work with **microservices and event-driven architectures**
+- Implement asynchronous workflows with **RabbitMQ and Kafka**
+- Build database-driven systems with **SQL Server and Entity Framework Core**
+- Work with caching, search, logging, and distributed infrastructure
+- Containerize and deploy applications using **Docker**
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://github.com/Strikerzzzz/Strikerzzzz">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Strikerzzzz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=FFFFFF&icon_color=BB86FC&bg_color=0,1E1E2E,3A3A5E,4C4C7A&theme=radical" />
-  </a>
-  <a href="https://github.com/Strikerzzzz/Strikerzzzz">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strikerzzzz&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=FFFFFF&icon_color=BB86FC&bg_color=0,4C4C7A,3A3A5E,1E1E2E&theme=radical" />
-  </a>
-</div>
+---
 
-<p align="center"> 
-  <b>Visitor Count</b><br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Strikerzzzz&right_color=bb86fc&left_text=" />
-</p>
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Strikerzzzz&bg_color=1E1E2E&color=BB86FC&line=BB86FC&point=7A7ADB&hide_border=true&theme=react-dark" alt="Activity Graph" />
-</p>
+### Backend
 
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
+`Clean Architecture` · `CQRS` · `MediatR` · `FluentValidation` · `AutoMapper`
+
+### Frontend
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
+
+`Vue 3` · `Vite` · `Pinia` · `Vue i18n`
+
+### Databases, Cache & Search
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+
+### APIs, Messaging & Distributed Systems
+
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+`Microservices` · `MassTransit` · `Event-Driven Architecture`
+
+### DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 💼 Development Experience
+
+I work primarily on production business applications using a modern .NET and Vue ecosystem.
+
+My work involves areas such as:
+
+- Backend services and business workflows
+- REST and gRPC APIs
+- Frontend features with Vue 3
+- SQL Server data access and optimization
+- Service-to-service communication
+- Message-based processing with RabbitMQ and Kafka
+- Redis caching
+- Elasticsearch-based logging and search
+- Dockerized development environments
+- CI/CD workflows
+
+---
+
+## ⭐ Featured Project
+
+### Full-Stack Web Application
+
+A complete full-stack application built with:
+
+`ASP.NET Core` · `Entity Framework Core` · `Angular` · `SQL Server` · `JWT` · `Docker`
+
+The project includes:
+
+- JWT authentication and refresh tokens
+- Role-based application features
+- REST APIs
+- Cloud file storage integration
+- Media processing and HLS streaming
+- Database-driven business logic
+- Containerized development environment
+- Production deployment
+
+> More public .NET and Vue projects are being added as I continue building my freelance portfolio.
+
+---
+
+## 🤝 Open to Freelance Work
+
+I'm interested in projects involving:
+
+- ASP.NET Core APIs
+- .NET backend development
+- Vue.js frontend development
+- API integrations
+- Business web applications
+- Microservices
+- Automation and internal tools
+- Bug fixing, feature development, and system integrations
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyễn_Tuấn_Tiến-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyentuantien413/)
+
+[![Upwork](https://img.shields.io/badge/Upwork-View_Profile-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~011a8895e19ba16e7e)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Strikerzzzz-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Strikerzzzz)
